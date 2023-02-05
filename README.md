@@ -48,8 +48,8 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naanmlorena&show_icons=true&locale=en" alt="naanmlorena" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naanmlorena&show_icons=true&locale=en" alt="naanmlorena" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naanmlorena&" alt="naanmlorena" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naanmlorena&" alt="naanmlorena" /></p>
 <img src="/img/banner_github02.gif">
 
