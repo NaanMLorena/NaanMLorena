@@ -19,7 +19,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<br>
+##
 
 <h3 align="left">Social</h3>
 <p align="left">
@@ -40,16 +40,16 @@
 <a href="https://obsproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" alt="obs" width="40" height="40"/> </a>
 </p>
 
-<br>
+##
 
 - 📫 How to reach me **naanmoreiralorena@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://krosberbr-website-teste.netlify.app/](https://krosberbr-website-teste.netlify.app/)**
 
-<br>
+##
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naanmlorena&show_icons=true&locale=en" alt="naanmlorena" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naanmlorena&show_icons=true&theme=synthwave" alt="naanmlorena" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naanmlorena&" alt="naanmlorena" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naanmlorena&theme=synthwave" alt="naanmlorena" /></p>
 <img src="/img/banner_github02.gif">
 
