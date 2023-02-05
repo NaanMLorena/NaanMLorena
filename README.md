@@ -46,7 +46,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://krosberbr-website-teste.netlify.app/](https://krosberbr-website-teste.netlify.app/)**
 
-<br><br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naanmlorena&show_icons=true&locale=en" alt="naanmlorena" /></p>
 
