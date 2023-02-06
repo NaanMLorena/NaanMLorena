@@ -42,6 +42,8 @@
 
 - 👨‍💻 All of my projects are available at **[https://krosberbr-website-teste.netlify.app/](https://krosberbr-website-teste.netlify.app/)**
 
+- 📄 Know more about my journey **[http://lattes.cnpq.br/9026489499421069](http://lattes.cnpq.br/9026489499421069)**
+
 ##
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naanmlorena&show_icons=true&theme=synthwave" alt="naanmlorena" /></p>
