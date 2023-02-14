@@ -51,4 +51,3 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naanmlorena&theme=synthwave" alt="naanmlorena" /></p>
 <img src="/img/banner_github02.gif">
 
-![snake gif](https://github.com/NaanMLorena/NaanMLorena/blob/output/github-contribution-grid-snake.svg)
