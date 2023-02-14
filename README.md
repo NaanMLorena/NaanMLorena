@@ -38,7 +38,7 @@
 
 ##
 
-- 📫 How to reach me **naanmoreiralorena@gmail.com**
+- 📫 How to reach me **naanmlorena@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://krosberbr-website-teste.netlify.app/](https://krosberbr-website-teste.netlify.app/)**
 
