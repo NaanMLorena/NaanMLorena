@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **naanmlorena@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://krosberbr-website-teste.netlify.app/](https://krosberbr-website-teste.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[https://naanmlorena.netlify.app](https://naanmlorena.netlify.app)**
 
 - 📄 Know more about my journey **[http://lattes.cnpq.br/9026489499421069](http://lattes.cnpq.br/9026489499421069)**
 
